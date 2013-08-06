@@ -2,18 +2,18 @@
 
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.marschall</groupId>
-  <artifactId>pring-default-servlet-handler-example</artifactId>
+  <artifactId>spring-default-servlet-handler-example</artifactId>
   <version>0.1.0-SNAPSHOT</version>
   <packaging>war</packaging>
   <name>Spring Default Servlet Handler Test</name>
   <description>Tests the Spring default servlet handler.</description>
   <inceptionYear>2013</inceptionYear>
 
-  <url>https://github.com/marschall/memoryfilesystem</url>
+  <url>https://github.com/marschall/spring-default-servlet-handler-example</url>
 
   <scm>
-    <connection>scm:git:git@github.com:marschall/pring-default-servlet-handler-example.git</connection>
-    <developerConnection>scm:git:git@github.com:marschall/pring-default-servlet-handler-example.git</developerConnection>
+    <connection>scm:git:git@github.com:marschall/spring-default-servlet-handler-example.git</connection>
+    <developerConnection>scm:git:git@github.com:marschall/spring-default-servlet-handler-example.git</developerConnection>
     <url>${project.url}</url>
     <tag>HEAD</tag>
   </scm>
